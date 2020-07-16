@@ -1,1 +1,1 @@
-Lorem	Ipsum
+Prueba de actualización de repositorio
